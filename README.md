@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript and React-native**
 
-- 💬 Ask me about **Html,Css,Bootstrap,Sass,Javascript(ES6+), React , Redux , Material UI,**
+- 💬 Ask me about **Html,Css,Bootstrap,Sass,Javascript(ES6+), React , Redux , React-native , Material UI,**
 
 - 📫 How to reach me **tohirovo630@gmail.com**
 
