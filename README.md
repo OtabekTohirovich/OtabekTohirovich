@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-commerce](https://crm.tvoydomm.uz/login)
 
-- 🌱 I’m currently learning Next.js 13
+- 🌱 I’m currently learning Next.js v13
 
 - 💬 Ask me about **Html, Css, Bootstrap, Sass, Javascript(ES6+), React , Redux , Typescript , (React-native, Node.js and Express - basics) , Material UI, Ant UI, React-bootstrap**
 
