@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otabek Tohirov</h1>
-<h3 align="center">A passionate Frontend (React.js) developer from Uzbekistan</h3>
+<h3 align="center">A passionate Frontend (React.js Next.js Typescript) developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otabektohirovich&label=Profile%20views&color=0e75b6&style=flat" alt="otabektohirovich" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Next.js v13
 
-- 💬 Ask me about **Html, Css, Bootstrap, Sass, Javascript(ES6+), React , Redux , Typescript , (React-native, Node.js and Express - basics) , Material UI, Ant UI, React-bootstrap**
+- 💬 Ask me about **Html, Css, Bootstrap, Sass, Javascript(ES6+), React , Redux , Next.js v13, Typescript , (React-native, Node.js and Express - basics) , Material UI, Ant UI, React-bootstrap**
 
 - 📫 How to reach me **tohirovo630@gmail.com**
 
